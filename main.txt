@@ -1,13 +1,15 @@
 una webada
 
 princical
-{chapi}
+{chapi
+	hola soy una calcu feliz y agradable, quieres ser mi amigo? C:
+}
 
 resta
 {karlangadas}
 
 multi
-{ambos}
+{karla es mas monse }
 hello no me borres
-editame
+maluma en la casa haha
 hello no me borres x2
